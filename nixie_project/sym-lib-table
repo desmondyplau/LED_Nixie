@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "sk6812_mini_e")(type "KiCad")(uri "${KIPRJMOD}/sk6812_mini_e.kicad_sym")(options "")(descr ""))
+  (lib (name "LED")(type "Legacy")(uri "G:/LED/LED.lib")(options "")(descr ""))
+)

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>G:\lexie\nixie_project\nixie_project.kicad_sch</source>
+    <date>21/09/2022 12:22:14 AM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>LED Nixie Tube</title>
+        <company/>
+        <rev>v01</rev>
+        <date>2022-09-18</date>
+        <source>nixie_project.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="creativecommons.org/licenses/by/4.0/"/>
+        <comment number="3" value="License: CC BY 4.0"/>
+        <comment number="4" value="Author: Desmond Lau"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0d0362f-3bbb-4d63-9a10-46630d3efd93</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30262e9a-db73-48f6-9a1b-a06e5492a36b</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e06051db-0dba-409e-a4d0-7d2681410469</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ef1441-bfac-410f-8c21-168f7b45b809</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbddac02-dba2-4ae2-bdb8-5b9295c0034a</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ff7101f-e07f-4a28-b9f8-687fb5e60946</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fb5d73a-d0d1-428c-8b55-995c8089c33e</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9992a85e-4185-4c60-afdd-8e6d095eec57</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba4f5ea1-0763-4ef1-8d13-995b67c49ae3</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>sk6812_mini_e</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</datasheet>
+      <libsource lib="sk6812_mini_e" part="sk6812_mini_e" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5ef16bd-804d-4256-8b7d-8dd2a7594e60</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>APA-106-F5</value>
+      <footprint>LED_THT:LED_D5.0mm-4_RGB</footprint>
+      <datasheet>https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf</datasheet>
+      <libsource lib="LED" part="APA-106-F5" description="RGB LED with integrated controller, 5mm Package"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccc424d6-eb63-45a4-a241-fd9ec3788104</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>5V+</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d62f452e-6280-41c4-abd7-a81fbcdf0ad8</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>GND</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06d1a8cb-1970-4efa-b564-9cd6a6a0ddf1</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>DIN</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e699727-325f-4ec7-bed2-0c3d59180094</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>DOUT</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="nixie_project.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebc4dd18-45ac-4db2-ba1b-3556d92a550a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="APA-106-F5">
+      <description>RGB LED with integrated controller, 5mm Package</description>
+      <docs>https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf</docs>
+      <footprints>
+        <fp>LED*D5.0mm*RGB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">APA-106-F5</field>
+        <field name="Footprint">LED_THT:LED_D5.0mm-4_RGB</field>
+        <field name="Datasheet">https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DO" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DI" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="sk6812_mini_e" part="sk6812_mini_e">
+      <docs>https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">sk6812_mini_e</field>
+        <field name="Footprint">Keebio-Parts:SK6812-MINI-E</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="DIN" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Users\Desmond\KiCAD\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>G:/LED/LED.lib</uri>
+    </library>
+    <library logical="sk6812_mini_e">
+      <uri>G:\lexie\nixie_project/sk6812_mini_e.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="D1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D10" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D11" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D6" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D7" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D8" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="D9" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="DOUT" pintype="power_in"/>
+      <node ref="D2" pin="4" pinfunction="DIN" pintype="power_in"/>
+    </net>
+    <net code="3" name="Net-(D1-Pad4)">
+      <node ref="D1" pin="4" pinfunction="DIN" pintype="power_in"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="DOUT" pintype="power_in"/>
+      <node ref="D3" pin="4" pinfunction="DIN" pintype="power_in"/>
+    </net>
+    <net code="5" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="DOUT" pintype="power_in"/>
+      <node ref="D4" pin="4" pinfunction="DIN" pintype="power_in"/>
+    </net>
+    <net code="6" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="DOUT" pintype="power_in"/>
+      <node ref="D5" pin="4" pinfunction="DIN" pintype="power_in"/>
+    </net>
+    <net code="7" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="DOUT" pintype="power_in"/>
+      <node ref="D7" pin="4" pinfunction="DIN" pintype="power_in"/>
+    </net>
+    <net code="8" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="DOUT" pintype="power_in"/>
+      <node ref="D8" pin="4" pinfunction="DIN" pintype="power_in"/>
+    </net>
+    <net code="9" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="DOUT" pintype="power_in"/>
+      <node ref="D9" pin="4" pinfunction="DIN" pintype="power_in"/>
+    </net>
+    <net code="10" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="DOUT" pintype="power_in"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D10-Pad4)">
+      <node ref="D10" pin="4" pinfunction="DIN" pintype="power_in"/>
+      <node ref="D9" pin="2" pinfunction="DOUT" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="D6" pin="4" pinfunction="DIN" pintype="power_in"/>
+    </net>
+    <net code="13" name="Net-(D11-Pad4)">
+      <node ref="D11" pin="4" pinfunction="DI" pintype="input"/>
+      <node ref="D5" pin="2" pinfunction="DOUT" pintype="power_in"/>
+    </net>
+    <net code="14" name="VCC">
+      <node ref="D1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D9" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
